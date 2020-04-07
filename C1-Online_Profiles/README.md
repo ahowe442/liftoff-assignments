@@ -15,4 +15,4 @@ For this assignment you will need to upload your resume and provide links to you
 ### Resume
 [Abby Howe's Resume'](https://drive.google.com/file/d/1IMlTnscTMWtKOqkj_aw1cneDN-DM2-Wo/view?usp=sharing)
 
-> *Because my GitHub repository is public* and I did not want to upload my resume to a public facing repository, click the link and request access to the google file.
+> *Because my GitHub repository is public* and I did not want to upload my resume to a public facing repository, click the link and request access to view my resume'.
