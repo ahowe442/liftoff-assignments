@@ -7,20 +7,22 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-*App Name TBD* is a gameified meal planner based on the premise that mundane tasks that lead to a desired outcome are 
-better when they provide support, encouragement and challenges.  
+*App Name TBD* makes meal planning a preparation **fun**!  Doesn't it feel great to complete a task that leads to your goal?  With *App Name TBD* each time you complete a 
+task you earn achievements.  *App Name TBD* is a gameified meal planner based on the premise that mundane tasks that 
+lead to a desired outcome are better when they provide support, encouragement and challenges.  
 ### Features
 Login to see your dashboard (where each user begins their recipe search, views goals, meal prep and cook, or grocery shop).
 Choose your nutrition goal. 
 Create and customize meal plans.
-Shop and Prep for meals in bulk.   
-Track and measure progress.  
+Shop and Prep to cook meals in bulk.   
+Track and measure goal progress.  
+Earn Achievements and Reputation Points.  
 
 ### Technologies
-- Java 
-- SpringBoot
-- Gradle
-- Thymeleaf
+1. Java 
+2. SpringBoot
+3. Gradle
+4. Thymeleaf
 
 ### What I'll Have to Learn
 link and sort recipes with an API. 
