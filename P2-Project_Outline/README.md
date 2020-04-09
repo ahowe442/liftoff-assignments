@@ -1,7 +1,7 @@
 # Project Outline
 
 ### Overview of
-Standards Based Student Work Portfolio
+LearnFolio
 ----
 Every day teachers attempt to personalize learning for students in a co-constructive way while navigating state-mandated 
 standards within the constraints of an academic year.  Teachers and students need a kind of learning management system 
