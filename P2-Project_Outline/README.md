@@ -7,16 +7,24 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-*App Name TBD* makes meal planning a preparation **fun**!  Doesn't it feel great to complete a task that leads to your goal?  With *App Name TBD* each time you complete a 
-task you earn achievements.  *App Name TBD* is a gameified meal planner based on the premise that mundane tasks that 
-lead to a desired outcome are better when they provide support, encouragement and challenges.  
+Standards Based Student Work Portfolio
+----
+In an attempt to personalize learning for students in a co-constructive way, my application will be a place where 
+students and teachers co-create learning goals.  Where each track and monitor progress and provide feedback.  Teachers 
+create assignments that are aligned to state standards.  Students submit work and collect evidence of their learning in 
+a portfolio.  The portfolio belongs to the student and it will move with the student from year to year and teacher to teacher. 
+Teachers are able to tag assignments with standards and assess the student's learning for a given standard.  
+Teachers also help students develop their next learning target/goal as they progess along the continuum.  Administrators 
+will be able to create the proficiency scales to ensure equity.  A student's progress and the final portfolio can be 
+shared with parents or college admissions.   
 ### Features
-Login to see your dashboard (where each user begins their recipe search, views goals, meal prep and cook, or grocery shop).
-Choose your nutrition goal. 
-Create and customize meal plans.
-Shop and Prep to cook meals in bulk.   
-Track and measure goal progress.  
-Earn Achievements and Reputation Points.  
+- Login for personalized dashboard.
+- Students can add a variety of media to their portfolio.
+- A student's portfolio belongs tot he student, and will move and grow with the student.  
+- Teacher created assignments. 
+- Assignments aligned to state standards.
+- Customizable proficiency scales and standards based grading. 
+
 
 ### Technologies
 1. Java 
@@ -25,8 +33,7 @@ Earn Achievements and Reputation Points.
 4. Thymeleaf
 
 ### What I'll Have to Learn
-link and sort recipes with an API. 
-Connect to a 3rd party grocery service.
+How a user can upload a variety of media.  i.e. pdf, photos, videos, links
 
 ### Project Tracker
-Link to my [Trello board ](https://trello.com/invite/b/hyYjfS0W/440e3118dd834a016a3b744bf581c45b/agile-app-dev) here
+Link to my [Trello board ](https://trello.com/b/aXf3ie24/liftoff-project-boardabbyhowe) here
