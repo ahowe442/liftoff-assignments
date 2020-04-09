@@ -13,7 +13,8 @@ These are images of the Student Dashboard, Submit Assignment Page and Upload.
 
 ### Project Repo Link
 
-- [] Include a link to your project on GitHub.
+- [] [My Capstone Project on GitHub](www.github.com).
+- TODO// Add in link for my capstone on github. 
 
 
 ## Assignment Description
