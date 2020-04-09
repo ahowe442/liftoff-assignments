@@ -9,13 +9,14 @@ These are images of the Student Dashboard, Submit Assignment Page and Upload.
 * ![Wireframes: Student Dashboard, Submit assignment, Upload](/P3-Project_Planning/Wireframe_StudentDash-SubmitAssign-Upload.jpg)
 
 ### Project Tracker
-[Trello Liftoff Capstone Project Board](https://trello.com/b/aXf3ie24/liftoff-project-boardabbyhowe)
+Liftoff Capstone Project [Trello Board](https://trello.com/b/aXf3ie24/liftoff-project-boardabbyhowe)
 
 ### Project Repo Link
 
-- [] [My Capstone Project on GitHub](www.github.com).
-- TODO// Add in link for my capstone on github. 
+- [] [My Capstone Project on GitHub](www.github.com) <br/>
+TODO// Add in link for my capstone on github. 
 
 
 ## Assignment Description
-[Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
+[Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)<br/>
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
