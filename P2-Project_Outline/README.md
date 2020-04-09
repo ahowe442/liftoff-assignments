@@ -25,7 +25,7 @@ shared with parents or college admissions.
 - **Create New Assignments:** 
 >Teachers will be able to create new assignments and tag them with their aligned state standard. 
 - **Customizable proficiency scales:** 
->Customizable proficiency scales will help faculty and student with clear guidelines for equitable progress monitoring. 
+>Customizable proficiency scales will help faculty and students with clear guidelines for equitable progress monitoring. 
 - **Sharing:** 
 >Users will be able to share portfolio progress with guardians. 
 
