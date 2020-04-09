@@ -13,9 +13,7 @@ Liftoff Capstone Project [Trello Board](https://trello.com/b/aXf3ie24/liftoff-pr
 
 ### Project Repo Link
 
-- [] [My Capstone Project on GitHub](www.github.com) <br/>
-TODO// Add in link for my capstone on github. 
-
+- My Capstone Project on GitHub [LearnFolio](https://github.com/ahowe442/LearnFolio) <br/>
 
 ## Assignment Description
 [Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)<br/>
