@@ -39,7 +39,7 @@ shared with parents or college admissions.
 ### What I'll Have to Learn
 * How a user can upload a variety of media.  i.e. pdf, photos, videos, and hyperlinks.
 * How to configure sharing features.  
-* How to import state standards.  
+* How to import state standards, i.e. likely will need to use data from a public API 
 
 ### Project Tracker
 Link to my [Trello board ](https://trello.com/b/aXf3ie24/liftoff-project-boardabbyhowe) here
