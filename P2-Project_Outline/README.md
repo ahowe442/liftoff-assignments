@@ -25,7 +25,7 @@ shared with parents or college admissions.
 - **Create New Assignments:** 
 >Teachers will be able to create new assignments and tag them with their aligned state standard. 
 - **Customizable proficiency scales:** 
->these will help faculty and student with clear guidelines for equitable progress monitoring. 
+>Customizable proficiency scales will help faculty and student with clear guidelines for equitable progress monitoring. 
 - **Sharing:** 
 >Users will be able to share portfolio progress with guardians. 
 
@@ -37,9 +37,9 @@ shared with parents or college admissions.
 4. Thymeleaf
 
 ### What I'll Have to Learn
-How a user can upload a variety of media.  i.e. pdf, photos, videos, and hyperlinks.
-How to configure sharing features.  
-How to import state standards.  
+* How a user can upload a variety of media.  i.e. pdf, photos, videos, and hyperlinks.
+* How to configure sharing features.  
+* How to import state standards.  
 
 ### Project Tracker
 Link to my [Trello board ](https://trello.com/b/aXf3ie24/liftoff-project-boardabbyhowe) here
