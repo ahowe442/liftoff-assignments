@@ -14,16 +14,15 @@ students and teachers co-create learning goals.  Where each track and monitor pr
 create assignments that are aligned to state standards.  Students submit work and collect evidence of their learning in 
 a portfolio.  The portfolio belongs to the student and it will move with the student from year to year and teacher to teacher. 
 Teachers are able to tag assignments with standards and assess the student's learning for a given standard.  
-Teachers also help students develop their next learning target/goal as they progess along the continuum.  Administrators 
+Teachers also help students develop their next learning target/goal as they progress along the continuum.  Administrators 
 will be able to create the proficiency scales to ensure equity.  A student's progress and the final portfolio can be 
 shared with parents or college admissions.   
 ### Features
-- Login for personalized dashboard.
-- Students can add a variety of media to their portfolio.
-- A student's portfolio belongs tot he student, and will move and grow with the student.  
-- Teacher created assignments. 
-- Assignments aligned to state standards.
-- Customizable proficiency scales and standards based grading. 
+- **User Login** Users will be able to create accounts and log in to the application. Each user will have a personalized dashboard.
+- **Upload Multiple File Types** Students can add a variety of media to their portfolio.  
+- **Create New Assignments** Teachers will be able to create new assignments and tag them with their aligned state standard. 
+- **Customizable proficiency scales** these will help faculty and student with clear guidelines for equitable progress monitoring. 
+- **Sharing** Users will be able to share portfolio progress with guardians. 
 
 
 ### Technologies
@@ -33,7 +32,9 @@ shared with parents or college admissions.
 4. Thymeleaf
 
 ### What I'll Have to Learn
-How a user can upload a variety of media.  i.e. pdf, photos, videos, links
+How a user can upload a variety of media.  i.e. pdf, photos, videos, and hyperlinks.
+How to configure sharing features.  
+How to import state standards.  
 
 ### Project Tracker
 Link to my [Trello board ](https://trello.com/b/aXf3ie24/liftoff-project-boardabbyhowe) here
