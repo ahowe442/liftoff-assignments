@@ -18,11 +18,11 @@ Teachers also help students develop their next learning target/goal as they prog
 will be able to create the proficiency scales to ensure equity.  A student's progress and the final portfolio can be 
 shared with parents or college admissions.   
 ### Features
-- **User Login** Users will be able to create accounts and log in to the application. Each user will have a personalized dashboard.
-- **Upload Multiple File Types** Students can add a variety of media to their portfolio.  
-- **Create New Assignments** Teachers will be able to create new assignments and tag them with their aligned state standard. 
-- **Customizable proficiency scales** these will help faculty and student with clear guidelines for equitable progress monitoring. 
-- **Sharing** Users will be able to share portfolio progress with guardians. 
+- **User Login:** Users will be able to create accounts and log in to the application. Each user will have a personalized dashboard.
+- **Upload Multiple File Types:** Students can add a variety of media to their portfolio.  
+- **Create New Assignments:** Teachers will be able to create new assignments and tag them with their aligned state standard. 
+- **Customizable proficiency scales:** these will help faculty and student with clear guidelines for equitable progress monitoring. 
+- **Sharing:** Users will be able to share portfolio progress with guardians. 
 
 
 ### Technologies
