@@ -1,12 +1,6 @@
 # Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
 
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
-
-## Submission Instructions
-
-### Overview
+### Overview of
 Standards Based Student Work Portfolio
 ----
 In an attempt to personalize learning for students in a co-constructive way, my application will be a place where 
@@ -43,3 +37,6 @@ shared with parents or college admissions.
 
 ### Project Tracker
 Link to my [Trello board ](https://trello.com/b/aXf3ie24/liftoff-project-boardabbyhowe) here
+
+
+[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
