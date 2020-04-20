@@ -16,7 +16,7 @@ These are images of the Student Dashboard, Submit Assignment Page and Upload.
 * ![Portfolio View ](/P3-Project_Planning/LiftOffPortfolioView.jpg)
 
 ### Project Tracker
-Liftoff Capstone Project [Trello Board](https://trello.com/b/aXf3ie24/liftoff-project-boardabbyhowe)
+Liftoff Capstone Project [Trello Board](https://trello.com/b/aXf3ie24)
 
 ### Project Repo Link
 
