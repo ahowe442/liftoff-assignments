@@ -7,6 +7,13 @@ These are images of the Welcome/Main Page, Sign Up Page and Teacher Dashboard Pa
 ___
 These are images of the Student Dashboard, Submit Assignment Page and Upload. 
 * ![Wireframes: Student Dashboard, Submit assignment, Upload](/P3-Project_Planning/Wireframe_StudentDash-SubmitAssign-Upload.jpg)
+___
+These are images of the Teacher Dashboard, Submit Assignment Page and Upload. 
+* ![Wireframes: Teacher Dashboard](/P3-Project_Planning/TeacherDashboardView.jpeg)
+
+___
+These are images of the Student Dashboard, Submit Assignment Page and Upload. 
+* ![Portfolio View ](/P3-Project_Planning/LiftOffPortfolioView.jpg)
 
 ### Project Tracker
 Liftoff Capstone Project [Trello Board](https://trello.com/b/aXf3ie24/liftoff-project-boardabbyhowe)
